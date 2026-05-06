@@ -1,2 +1,2 @@
-### DATABASE
-[DVD Rental Sample Database] (https://neon.com/postgresql/getting-started/sample-database)
+### DATABASE <br>
+[DVD Rental Sample Database](https://neon.com/postgresql/getting-started/sample-database)
